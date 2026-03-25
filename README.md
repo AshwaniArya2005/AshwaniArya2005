@@ -1,18 +1,18 @@
 # Hi, I'm Ashwani Arya 👋
 
-🎓 B.Tech Student (2027)
-💻 Passionate about Problem Solving, AI & System Design
-🚀 Building real-world projects with impact
+🎓 B.Tech CSE @ VIT Bhopal (GPA: 8.86)
+💻 Full Stack Developer | AI Enthusiast | Problem Solver
+🚀 Building scalable applications & intelligent systems
 
 ---
 
 ## ⚡ About Me
 
-* 🧠 Exploring **Machine Learning & Deep Learning (CNN, LSTM, Attention)**
-* 💻 Strong in **Data Structures & Algorithms**
-* 🌐 Building full-stack & backend-powered applications
-* 🔥 Currently working on **Flare (Delivery + Smart System Project)**
-* 🛠 Interested in **System Design, AI-based solutions & optimization**
+* 💡 Strong foundation in **Data Structures, DBMS & OS**
+* 🌐 Experienced in **MERN Stack Development**
+* 🤖 Exploring **AI, Machine Learning & Cloud Computing**
+* ⚙️ Focused on building **scalable and optimized systems**
+* 🧠 Quick learner with a problem-solving mindset
 
 ---
 
@@ -20,52 +20,74 @@
 
 ### 👨‍💻 Languages
 
-* Python
 * Java
+* Python
 
-### ⚙️ Tools & Technologies
+### 🌐 Web Development
 
-* Firebase / Supabase
+* HTML, CSS, JavaScript
+* React.js
+* Node.js, Express.js
+* MongoDB
+
+### ⚙️ Tools & Platforms
+
 * Git & GitHub
-* Linux (Fedora)
+* Firebase
 * VS Code
+* SupaBase
 
-### 📊 Domains
+### 🗄 Databases
 
-* Machine Learning
-* Data Structures & Algorithms
-* Computer Networks
-* System Design
+* MySQL
+* MongoDB
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Flare (Team Project)
+### 🔹 Flare – Full Stack Delivery App
 
-> Smart delivery platform (groceries + food + sports items)
-
-* Backend-integrated system
-* Scalable architecture planning
-* Real-world application focus
-
----
-
-### 🔹 ML Model Analysis
-
-> Comparison of multiple models
-
-* CNN, LSTM, DNN, Attention
-* ROC curves, confusion matrix
-* Performance evaluation
+* Built a **MERN-based delivery platform** (groceries, food, sports items)
+* Implemented **secure authentication & role-based access**
+* Designed **dynamic cart with real-time updates**
+* Architected for **scalability and high order handling**
 
 ---
 
-### 🔹 CN & System Projects
+### 🔹 TrendMind – AI Model Discovery Platform
 
-* Socket Programming (Client-Server)
-* TCP Connections
-* OSI Layer-based implementations
+* Developed platform to **explore & compare AI models**
+* Added **authentication for personalized access**
+* Built **model comparison system with metrics**
+* Responsive UI using React.js
+
+---
+
+### 🔹 Network Scanner
+
+* Created tool to **scan local networks & detect devices**
+* Identifies **open ports & OS types**
+* Backend optimized using **Node.js & Express**
+* Real-time visualization with React
+
+---
+
+### 🔹 Living Earth – 3D Global Visualizer
+
+* Built **interactive 3D globe using Three.js & WebGL**
+* Integrated **NASA EONET + Open-Meteo APIs**
+* Real-time mapping of **climate events (wildfires, storms)**
+* Implemented **GLSL shaders & day/night cycle**
+
+---
+
+## 📜 Certifications
+
+* NPTEL – Introduction to Machine Learning
+* Google – Computer Networking
+* IBM – Cyber Security Analyst
+* IAMNEO – MERN Stack Developer
 
 ---
 
@@ -77,28 +99,19 @@
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 Current Focus
 
-* Advanced DSA
-* Data Science
-* Deep Learning Architectures
-* Backend Scaling and Integration
-
----
-
-## 🎯 Goals
-
-* Crack top tech internships (JP Morgan level 🚀)
-* Build impactful AI-based systems
-* Contribute to real-world scalable products
+* Exploring **Data Science**
+* Scaling full-stack applications
+* Deepening **Machine Learning concepts**
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: www.linkedin.com/in/ashwani-arya2005
-* 📧 Email: ashwaniarya2009@gmail.com
+* 💼 LinkedIn: https://linkedin.com/in/ashwani-arya2005
+* 📧 Email: [ashwaniarya2009@gmail.com](mailto:ashwaniarya2009@gmail.com)
 
 ---
 
-⭐ *"Consistency + Building > Everything else"*
+⭐ *"Building scalable systems + solving real problems"*
