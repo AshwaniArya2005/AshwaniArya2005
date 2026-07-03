@@ -1,6 +1,6 @@
 # Hi, I'm Ashwani Arya 👋
 
-🎓 B.Tech CSE @ VIT Bhopal (GPA: 8.86)
+🎓 B.Tech CSE @ VIT Bhopal (GPA: 8.99)
 💻 Full Stack Developer | AI Enthusiast | Problem Solver
 🚀 Building scalable applications & intelligent systems
 
