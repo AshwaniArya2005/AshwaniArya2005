@@ -1,7 +1,7 @@
 # Hi there, I'm Ashwani Arya 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Data+Science+Explorer;Building+things+that+make+an+impact" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Data+Science+Explorer;Building+things+that+make+an+impact" />
 </p>
 
 > "Stay curious. Build things. Break them. Learn why they broke. Repeat."
