@@ -1,99 +1,90 @@
-# Hey, I'm Ashwani Arya 👋
+# Hi, I'm Ashwani Arya 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Building+things+that+matter" />
-</p>
+> "The best way to predict the future is to create it." — Peter Drucker
 
----
+### Computer Science Student | Full Stack Developer | AI & Data Science Explorer
 
-> "Code is not just about solving problems — it's about creating possibilities."
+I'm a B.Tech CSE student at VIT Bhopal who enjoys building software,
+solving problems, and exploring how technology can create meaningful solutions.
 
-🎓 B.Tech Computer Science Engineering @ VIT Bhopal  
-💻 Full Stack Developer | AI & Data Science Explorer  
-🚀 Passionate about building scalable applications and learning how technology shapes the world
+I like working at the intersection of:
+**Software Engineering × Data × Artificial Intelligence**
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a Computer Science student who enjoys turning ideas into working systems.
+I enjoy understanding how things work — whether it's an algorithm,
+a backend system, or a machine learning model.
 
-I like exploring the space where:
-Software Engineering × Data × Artificial Intelligence
+Currently focused on:
 
-meet together.
+- 💻 Building full-stack applications
+- 🤖 Exploring Machine Learning & AI Engineering
+- 📊 Learning Data Science concepts
+- 🧩 Improving problem-solving and system design skills
 
-My interests revolve around:
-- 🏗 Building scalable and efficient applications
-- 🧠 Understanding algorithms and system design
-- 🤖 Exploring Machine Learning & AI technologies
-- 📊 Learning how data can drive better decisions
-
-> "The best projects start with curiosity and end with lessons."
+> "Great things are built one small improvement at a time."
 
 ---
 
-## ⚡ What I Work With
+## Tech Stack
 
-### 👨‍💻 Languages
+**Languages**
 
-Java • Python • JavaScript • SQL
+Java · Python · JavaScript · SQL
 
-### 🌐 Development
+**Frontend**
 
-React.js • Next.js • Node.js • Express.js  
-MongoDB • PostgreSQL • Firebase • Supabase
+React.js · Next.js · HTML · CSS · Tailwind CSS
 
-### 🤖 AI & Data
+**Backend**
 
-Machine Learning • Data Science  
-Deep Learning • LLM Applications
+Node.js · Express.js · REST APIs
 
-### 🛠 Tools
+**Databases & Cloud**
 
-Git • GitHub • Docker • VS Code • Linux
+MongoDB · PostgreSQL · Firebase · Supabase
+
+**AI / Data**
+
+Machine Learning · Deep Learning · Data Analysis · LLM Applications
 
 ---
 
-## 📚 Currently Learning
+## Certifications
+
+- NPTEL — Introduction to Machine Learning
+- Google — Computer Networking
+- IBM — Cyber Security Analyst
+- IAMNEO — MERN Stack Development
+
+---
+
+## Currently Learning
 
 🌱 Data Science & Machine Learning  
-⚙️ System Design & Backend Architecture  
-🤖 AI Engineering & LLM-based Applications  
+⚙️ System Design & Software Architecture  
+🤖 Building practical AI applications  
 
-> "Learning never stops — every line of code is a step forward."
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AshwaniArya2005&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AshwaniArya2005&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
----
-
-## 🏆 Certifications & Learning
-
-🎓 NPTEL — Introduction to Machine Learning  
-🌐 Google — Computer Networking  
-🔐 IBM — Cyber Security Analyst  
-⚡ IAMNEO — MERN Stack Development  
+> "Success is the sum of small efforts, repeated day in and day out."
 
 ---
 
-## 🤝 Let's Connect
+## GitHub Stats
 
-💼 LinkedIn: https://linkedin.com/in/ashwani-arya2005
-
-📧 Email: ashwaniarya2009@gmail.com
-
-🌐 Portfolio: https://ashwaniarya-portfolio.vercel.app/
+[stats here]
 
 ---
 
-<p align="center">
+## Connect With Me
 
-⭐ Thanks for visiting! Feel free to explore my repositories.
+LinkedIn: your-link
 
-</p>
+Portfolio: your-link
+
+Email: your-email
+
+---
+
+⭐ "Keep learning. Keep building. Keep improving."
